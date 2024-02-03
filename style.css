@@ -1,0 +1,15 @@
+body {
+    padding: 10px;
+}
+
+form div {
+    padding: 5px;
+}
+
+input, textarea {
+    width: 95%;
+}
+
+textarea {
+    height: 100px;
+}
